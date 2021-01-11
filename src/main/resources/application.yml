@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: greetingsMicronaut
+  server:
+    port: 8085
+
+greetings:
+  message:
+    default: Hello, human!
